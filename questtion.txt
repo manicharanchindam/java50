@@ -8,15 +8,17 @@
 - **Sum of Digits:** Calculate the sum of the digits of a number.
 - **Swap Two Variables:** Swap the values of two variables without using a third variable.
 - **Count Vowels and Consonants:** Count the number of vowels and consonants in a string.
+- **Sum of Series:** Calculate the sum of a series (e.g., 1 + 2 + 3 + ... + N).
+- **Factorial:** Write a function to calculate the factorial of a number.                         
+- **find the maximum number from a input number.
+- **Generate any random number.
+- **Fibonacci Sequence:** Generate the first N numbers in the Fibonacci sequence.
 - **String Reversal without Library Function:** Reverse a string without using library functions.
 - **Count Words in a String:** Count the number of words in a sentence.
 - **Check if a String Contains a Substring:** Check if a string contains a specified substring.
 - **Calculate Simple Interest:** Calculate simple interest based on user input.
-- **Factorial:** Write a function to calculate the factorial of a number.                                   2. Control Flow and Functions
-- **Fibonacci Sequence:** Generate the first N numbers in the Fibonacci sequence.
 - **Power of a Number:** Calculate the power of a number using recursion.
 - **Calculate Factorial using Recursion:** Calculate factorial using a recursive function.
-- **Sum of Series:** Calculate the sum of a series (e.g., 1 + 2 + 3 + ... + N).
 - **Find Maximum Number:** Find the maximum number in an array.                                                      3. Arrays and Lists
 - **Find the Largest Element in an Array:** Find the largest element in an array.
 - **Array Rotation:** Rotate an array to the right by K positions.
